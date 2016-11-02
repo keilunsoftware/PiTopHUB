@@ -13,3 +13,4 @@ Known issues:
 
 - With permanent USB devices connected to RPi USB PiTop experiences a battery drain even when powered off. Need to add an additional switch on the RPi USB power cable
 
+Order PCB directly from OSH Park: https://oshpark.com/shared_projects/OJJPJsZg
