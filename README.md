@@ -7,6 +7,7 @@ Features:
 - Full Arduino compatible breakout board (programmable from RPi)
 - PiTop 16-18V power connector
 - Full RPi GPIO connector (removed permanent 3v3 pin to avoid battery drain, even when off)
+- Pin connector for TinyRTC module (battery on top)
 
 Known issues:
 
